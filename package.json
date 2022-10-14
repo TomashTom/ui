@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "vue-router": "^4.0.13"
+  },
+
+  "devDependencies": {
+    "@babel/preset-env": "^7.19.4"
+  },
+  "type": "module"
+  
+  
+}
